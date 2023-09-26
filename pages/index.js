@@ -1,6 +1,6 @@
 function Home (){
     return(
-        <h1>Persista e não desista</h1>
+        <h1>Joyce se vc me ama da uma risadinha ai vai kkkkk.</h1>
     )
 }
 
