@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Joyce se vc me ama da uma risadinha ai vai kkkkk.</h1>;
+  return <h1>Tiago Alves Mastrogiacomo Siqueira.</h1>;
 }
 
 export default Home;
